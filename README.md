@@ -1,5 +1,5 @@
 # brennogabriel77
-### Boas vindas ao meu perfil :blue_heart
+### Boas vindas ao meu perfil
 
 Meu nome é brenno gabriel
 
@@ -13,4 +13,3 @@ Meu nome é brenno gabriel
 
 @brennogabriel771
 
-![descrição do GIF](link GIF do Tenor)
